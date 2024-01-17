@@ -8,7 +8,7 @@ As a normal human being in general, I also have a personal life like other peopl
 
 Apart from that, I also like to explore new technology during holidays, such as trying new programming languages, new technologies. Or if friends are interested in inviting me to discuss technology, I will also be very happy. Please contact me via telegram @fatfatcocofat.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatfatcocofat&layout=compact&langs_count=5)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fatfatcocofat&layout=compact&langs_count=5))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatfatcocofat&layout=compact&langs_count=8)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fatfatcocofat&layout=compact&langs_count=8))
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=fatfatcocofat&show_icons=true&count_private=true&theme=light)](https://github-readme-stats.vercel.app/api?username=fatfatcocofat&show_icons=true&count_private=true&theme=dark)
