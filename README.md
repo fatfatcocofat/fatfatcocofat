@@ -2,7 +2,7 @@
 
 This is **Fathurrohman**
 
-I am a passionate software developer living in **Indonesia**. works for **Karya Inovasi Anak Bangsa** as a **Backend Engineer**. I like playing with code editors to fill my free time.
+I am a passionate software developer living in **Indonesia**. I like playing with code editors to fill my free time.
 
 As a normal human being in general, I also have a personal life like other people, outside of my activities as a software developer, sometimes I also like to share my daily activities on social media such as Instagram or Facebook. 
 
