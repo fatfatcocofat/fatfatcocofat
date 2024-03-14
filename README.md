@@ -13,4 +13,4 @@ Apart from that, I also like to explore new technology during holidays, such as 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=fatfatcocofat&show_icons=true&count_private=true&theme=light)](https://github-readme-stats.vercel.app/api?username=fatfatcocofat&show_icons=true&count_private=true&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fatfatcocofat)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=fatfatcocofat))
+<!-- [![Fathurrohman's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fatfatcocofat)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=fatfatcocofat)) -->
