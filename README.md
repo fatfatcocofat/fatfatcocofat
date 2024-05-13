@@ -148,8 +148,6 @@
   </a>
 </div>
 
-### 
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatfatcocofat&area=true&theme=tokyo-night" alt="activity-graph graph" /> <br>
 </div>
