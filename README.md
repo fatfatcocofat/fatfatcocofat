@@ -13,12 +13,28 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fatfatcocofat&theme=tokyonight" />
   </a>
   
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=320&theme=tokyonight">
+  <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=320&theme=tokyonight">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
+  </a> -->
+</div>
+
+###
+
+<div align="center">
+  <a href="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5">
+    <img height=200 src="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
   </a>
 </div>
 
 ### 
+
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=320&theme=tokyonight">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=500&theme=tokyonight" />
+  </a>
+</div>
+
+###
 
 ### Tech Stack
 
@@ -123,12 +139,12 @@
 ###
 
 <div align="center">
-  <a href="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5">
+  <!-- <a href="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5">
     <img height=200 src="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
-  </a>
+  </a> -->
   
   <a href="https://github-profile-trophy.vercel.app?username=fatfatcocofat&no-frame=false&row=2&column=4&no-bg=false&theme=tokyonight">
-    <img height=200 src="https://github-profile-trophy.vercel.app?username=fatfatcocofat&no-frame=false&row=2&column=4&no-bg=false&theme=tokyonight" />
+    <img height=200 src="https://github-profile-trophy.vercel.app?username=fatfatcocofat&no-frame=false&row=1&no-bg=false&theme=tokyonight" />
   </a>
 </div>
 
