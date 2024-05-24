@@ -9,28 +9,8 @@
 ### 
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=fatfatcocofat&theme=tokyonight">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fatfatcocofat&theme=tokyonight" />
-  </a>
-  
-  <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=320&theme=tokyonight">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
-  </a> -->
-</div>
-
-###
-
-<div align="center">
   <a href="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5">
     <img height=200 src="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
-  </a>
-</div>
-
-### 
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=320&theme=tokyonight">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatfatcocofat&layout=compact&langs_count=8&card_width=500&theme=tokyonight" />
   </a>
 </div>
 
@@ -135,20 +115,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <!-- <a href="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5">
-    <img height=200 src="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
-  </a> -->
-  
-  <a href="https://github-profile-trophy.vercel.app?username=fatfatcocofat&no-frame=false&row=2&column=4&no-bg=false&theme=tokyonight">
-    <img height=200 src="https://github-profile-trophy.vercel.app?username=fatfatcocofat&no-frame=false&row=1&no-bg=false&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatfatcocofat&area=true&theme=tokyo-night" alt="activity-graph graph" /> <br>
-</div>
-
