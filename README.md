@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Currently, I am engaged in both startup ventures and freelance work, focusing on software development.
-- 👯 I am seeking collaboration opportunities for hobby projects, leveraging my expertise and skills.
-- 🌱 Actively expanding my proficiency in Swift, Dart, and Flutter to enhance my capabilities in mobile application development.
-- 💬 Feel free to inquire about my expertise in Linux, managing side projects, or contributing externally to projects.
-- ⚡ As a fun fact, I enjoy utilizing code editors during leisure to explore and experiment with various programming languages and techniques.
-
 ### 
 
 <div align="center">
@@ -15,8 +9,6 @@
 </div>
 
 ###
-
-### Tech Stack
 
 - 👨‍💻 Backend Engineer specializing in architecting reliable and high-performance systems.
 - 💡 Dedicated to optimizing server-side operations and enhancing application functionality.
