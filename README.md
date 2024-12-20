@@ -6,13 +6,15 @@
   <a href="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5">
     <img height=200 src="https://streak-stats.demolab.com?user=fatfatcocofat&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
   </a>
+  <a href="#">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatfatcocofat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </a>
 </div>
 
 ###
 
 - 👨‍💻 Backend Engineer specializing in architecting reliable and high-performance systems.
-- 💡 Dedicated to optimizing server-side operations and enhancing application functionality.
-- 🌐 Proficient in designing and implementing scalable APIs and microservices.
+- 🌐 Proficient in designing and implementing scalable APIs.
 - 🔧 Skilled in languages such as Node.js, Java, Python PHP and Go.
 - 🚀 Committed to staying abreast of industry trends and best practices.
 - 💬 Let's collaborate on building robust and scalable backend solutions!
